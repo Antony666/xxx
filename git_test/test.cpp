@@ -39,7 +39,7 @@ public:
     ~Child() {
     }
 };
-
+//你实话红烧豆腐
 int main() {
     weak_ptr<Parent> wpp;
     weak_ptr<Child> wpc;
