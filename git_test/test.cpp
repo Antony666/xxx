@@ -5,7 +5,7 @@ using namespace std;
 //声明
 class Child;
 class Parent;
-
+//nishishahhasidfhladfhl;a
 class Parent {
 private:
     shared_ptr<Child> ChildPtr;
